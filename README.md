@@ -20,6 +20,7 @@ Explore a collection of interactive web applications built to amaze, inspire, an
 | 🧵 **Future of Smart Textile** | Explore AI-powered innovations in wearable smart fabrics. | [Visit Site](https://preview--wrlds-ai-integration-11.lovable.app/) |
 | 🎟️ **Event Frame Gallery** | A visual timeline experience for events and stories. | [Visit Site](https://preview--eventful-frames-gallery-31.lovable.app/) |
 | 🤖 **Personal AI Engine** | Your own AI assistant designed to learn and evolve with you. | [Visit Site](https://lovable.dev/projects/aabe5539-586e-4fbb-a2fa-f8ce156ba861) |
+| 🧭 **DNS Pulse Check** | Check your DNS server, provider, and security protocols with a sleek UI and animations. | [Visit Site](https://preview--dns-pulse-check.lovable.app/) |
 
 ---
 
