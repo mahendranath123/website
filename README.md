@@ -21,6 +21,7 @@ Explore a collection of interactive web applications built to amaze, inspire, an
 | 🎟️ **Event Frame Gallery** | A visual timeline experience for events and stories. | [Visit Site](https://preview--eventful-frames-gallery-31.lovable.app/) |
 | 🤖 **Personal AI Engine** | Your own AI assistant designed to learn and evolve with you. | [Visit Site](https://lovable.dev/projects/aabe5539-586e-4fbb-a2fa-f8ce156ba861) |
 | 🧭 **DNS Pulse Check** | Check your DNS server, provider, and security protocols with a sleek UI and animations. | [Visit Site](https://preview--dns-pulse-check.lovable.app/) |
+| 🚨 Alert Siren Watchtower | Monitor system alerts in real-time with a sleek UI, live charts, and dynamic animations. Stay ahead of issues with continuous visual feedback. | [Visit Site](https://preview--alert-siren-watchtower.lovable.app/) |
 
 ---
 
